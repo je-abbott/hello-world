@@ -1,2 +1,4 @@
 # hello-world
-just a practic
+just a practice
+
+hi i like food
